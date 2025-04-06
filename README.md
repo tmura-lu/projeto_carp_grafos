@@ -9,7 +9,7 @@ A Python implementation for analyzing mixed graphs (with both directed and undir
 
 ## Features
 
-## Graph Metrics Calculated
+### Graph Metrics Calculated
 
 1. **Number of vertices**  
    Total count of nodes in the graph
@@ -61,7 +61,7 @@ A Python implementation for analyzing mixed graphs (with both directed and undir
 
 - /selected_instances/.dat files
 
-# Basic Usage
+## Basic Usage
 
 - g = ler_arquivo_dat('selected_instances/###.dat') - Load instance
 - g.show_stats()  -  Displays statistics
