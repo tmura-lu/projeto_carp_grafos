@@ -33,23 +33,20 @@ A Python implementation for analyzing mixed graphs (with both directed and undir
    Ratio of existing connections to possible connections  
    `Density = (|E| + |A|) / (|V| * (|V| - 1))`
 
-8. **Connected components**  
-   Subgraphs where any two vertices are connected
-
-9. **Minimum vertex degree**  
+8. **Minimum vertex degree**  
    Smallest number of connections to any node
 
-10. **Maximum vertex degree**  
+9. **Maximum vertex degree**  
     Largest number of connections to any node
 
-11. **Betweenness centrality**  
+10. **Betweenness centrality**  
     Measures how often a node appears on shortest paths between other nodes  
     *(Alternative paths not calculated)*
 
-12. **Average path length**  
+11. **Average path length**  
     Mean distance between all vertex pairs
 
-13. **Graph diameter**  
+12. **Graph diameter**  
     Longest shortest path in the graph
 
 ### Implemented Algorithms
