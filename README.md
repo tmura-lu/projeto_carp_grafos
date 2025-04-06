@@ -63,9 +63,9 @@ A Python implementation for analyzing mixed graphs (with both directed and undir
 
 ## Basic Usage
 
-- g = ler_arquivo_dat('selected_instances/###.dat') - Load instance
-- g.show_stats()  -  Displays statistics
-- g.show_betweenness()  - Shows centrality
+- g = ler_arquivo_dat('selected_instances/*****.dat') - Load instance
+- grafo.contar()  -  Displays statistics
+- grafo.mostra_intermediacao()()  - Shows centrality
 
   
 ## Credits
