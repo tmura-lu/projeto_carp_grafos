@@ -64,9 +64,15 @@ A Python implementation for analyzing mixed graphs (with both directed and undir
 
 - /selected_instances/.dat files
 
-
 # Basic Usage
 
 - g = ler_arquivo_dat('selected_instances/###.dat') - Load instance
 - g.show_stats()  -  Displays statistics
 - g.show_betweenness()  - Shows centrality
+
+  
+## Credits
+- Lucca Guedes Batistela
+- Prof. Mayron César O. Moreira
+- UFLA
+
