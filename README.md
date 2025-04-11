@@ -1,14 +1,3 @@
-# Cabeçalho
-
- Este é um trabalho da disciplina de Algoritmos em Grafos - GCC218
-
-- Ministrado pelo: Professor Mayron César de Oliveira Moreira.
-- Realizado pelos alunos:
-- Lucca Guedes Batistela - 202320185
-- Carlos Eduardo Borges de Sousa - 202020296
-
-
-
 # Graph Analysis for CARP Instances
 
 ## Project Description
@@ -20,7 +9,7 @@ A Python implementation for analyzing mixed graphs (with both directed and undir
 
 ## Features
 
-### Graph Metrics Calculated
+## Graph Metrics Calculated
 
 1. **Number of vertices**  
    Total count of nodes in the graph
@@ -63,7 +52,7 @@ A Python implementation for analyzing mixed graphs (with both directed and undir
 13. **Graph diameter**  
     Longest shortest path in the graph
 
-## Implemented Algorithms
+### Implemented Algorithms
 - Floyd-Warshall for shortest paths
 - Betweenness centrality calculation
 
@@ -76,7 +65,7 @@ A Python implementation for analyzing mixed graphs (with both directed and undir
 - /selected_instances/.dat files
 
 
-## Basic Usage
+# Basic Usage
 
 - g = ler_arquivo_dat('selected_instances/###.dat') - Load instance
 - g.show_stats()  -  Displays statistics
