@@ -25,6 +25,7 @@ The visualization includes:
    - Displays numerical metrics for quick comparison.
 
 ## File Structure
+- `grafos.py` : Main project file.
 - `visualizacao_resultados.ipynb`: The main notebook for graph visualization.
 - `selected_instances/`: Folder containing `.dat` files with CARP instances.
 
@@ -66,9 +67,9 @@ The visualization includes:
 ### Intermediation Table
 | Vertex   | Intermediation |
 |----------|----------------|
-| 1        | 0.123456       |
-| 2        | 0.234567       |
-| 3        | 0.345678       |
+| 1        | 18       |
+| 2        | 20       |
+| 3        | 32       |
 | ...      | ...            |
 
 ### Bar Chart
