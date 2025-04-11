@@ -1,7 +1,7 @@
 Este é um trabalho da disciplina de Algoritmos em Grafos - GCC218
 
 - Ministrado pelo: Professor Mayron César de Oliveira Moreira.
-- Realizado pelo aluno:
+- Realizado pelos alunos:
 - Lucca Guedes Batistela - 202320985
 - Carlos Eduardo Borges de Sousa - 202020296
 
