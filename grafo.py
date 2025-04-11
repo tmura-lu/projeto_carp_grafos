@@ -255,8 +255,8 @@ def ler_arquivo_dat(nome_arquivo):
 
 
 if __name__ == "__main__":
-    grafo = ler_arquivo_dat('selected_instances/CBMix18.dat')
+    grafo = ler_arquivo_dat('selected_instances/BHW1.dat')
     grafo.contar()
     grafo.mostra_intermediacao()
-  #  grafo.mostra_arestas()
-  #  grafo.mostra_arcos()
+#grafo.mostra_arestas()
+#grafo.mostra_arcos()
