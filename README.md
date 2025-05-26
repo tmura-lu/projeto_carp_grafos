@@ -15,7 +15,7 @@ This project implements a comprehensive solution for analyzing and visualizing C
 ```
 projeto_carp_grafos/
 ├── src/
-│   ├── grafo.py                 # Core graph implementation
+│   ├── grafo.py                # Core graph implementation
 │   ├── grafo_add.py            # Graph addition operations
 │   ├── grafo_analise.py        # Graph analysis functions
 │   ├── grafo_visualizacao.py   # Graph visualization utilities
