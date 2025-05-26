@@ -27,7 +27,6 @@ projeto_carp_grafos/
 │   └── visualizacao_resultados.ipynb  # Jupyter notebook for visualization
 ├── selected_instances/         # CARP instance files
 ├── padroes/                    # Pattern files
-└── requirements.txt           # Project dependencies
 ```
 
 ## Features
